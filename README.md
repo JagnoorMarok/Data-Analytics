@@ -19,10 +19,9 @@ This project demonstrates the application of statistical hypothesis testing tech
   - `seaborn`  
 
 ## Repository Contents  
-- **`notebooks/`**: Jupyter Notebook files containing implementation and visualizations.  
-- **`data/`**: The Iris dataset used for analysis.  
+- **`Test.py`**: Jupyter Notebook files containing implementation and visualizations.   
 - **`README.md`**: Project description and instructions.  
-- **`report/`**: Detailed project report.  
+- **`Report.pdf`**: Detailed project report.  
 
 ## How to Run  
 1. Clone this repository:  
